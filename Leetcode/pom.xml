@@ -9,4 +9,18 @@
 	<groupId>Leetcode</groupId>
 	<artifactId>Leetcode</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<!--build>
+	    <plugins>
+	      <plugin>
+		    <groupId>org.codehaus.mojo</groupId>
+		    <artifactId>maven-gpg-plugin</artifactId>
+		    <configuration>
+		        <skip>true</skip>
+		    </configuration>
+		  </plugin>
+	    </plugins>
+    </build-->
+	
+	
 </project>
+
